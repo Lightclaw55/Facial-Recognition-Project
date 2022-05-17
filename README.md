@@ -10,7 +10,7 @@
 
 ## How to install
 ```angular2html
-git clone https://github.com/phillakh/Facial-Recognition-Daniel.git
+git clone https://github.com/Lightclaw55/Facial-Recognition-Project.git
 python -m venv venv (Optional)
 .\venv\Scripts\activate (Optional)
 pip install -r requirements.txt
